@@ -1,0 +1,4 @@
+git config  --global user.name "" - installing name 
+git config --global user.emil "" - installing mail
+git add 'name of the file'- adding file to git
+git . - adds every file in working space
